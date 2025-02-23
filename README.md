@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am currently a student in Cybersecurity Engineering, passionate about bug bounties and penetration testing.
+![Alt text](1726887816567.jpg)
 
 
 ## 🌐 Socials:
